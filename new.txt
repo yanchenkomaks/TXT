@@ -1,0 +1,5 @@
+Yanchenko Maksim
+ age -23
+ pets -one cat
+wanted_salary -500$
+
