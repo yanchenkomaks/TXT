@@ -1,0 +1,6 @@
+skills:
+-theory 
+-git
+-mobile_testing
+-SQL
+-data_base

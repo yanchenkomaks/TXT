@@ -1,0 +1,5 @@
+favourite_film - one alone,
+favourite_sitcom - friends,
+favourite_dish - potstoes,
+favourite_season - summer,
+favourite_country - USA.
